@@ -3,7 +3,7 @@
 
 ---
 
-🎯 Tema do Projeto
+## 🎯 Tema do Projeto
 Ranking de jogadores por média de atributos ao longo dos anos
 
 ---
