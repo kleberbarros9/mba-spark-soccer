@@ -2,6 +2,11 @@
 # Entrega até 23/05/2025
 
 ---
+
+🎯 Tema do Projeto
+Ranking de jogadores por média de atributos ao longo dos anos
+
+---
 ## 🎯 Objetivo
 
 Desenvolver uma **pipeline completa de dados** baseada na **Medallion Architecture** (camadas Bronze, Silver e Gold), utilizando tecnologias modernas de processamento e orquestração de dados. O projeto será baseado em dados reais do futebol europeu, que estão disponíveis no seguinte bucket:
