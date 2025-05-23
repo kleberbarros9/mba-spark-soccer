@@ -63,25 +63,26 @@ s3://dev-lab-02-us-east-2-landing/soccer/
 ## 📁 Organização do Projeto
 
 
-project
-├── README.md
-├── docker-compose.yml
-├── dicionario_dados
-│   ├── silver.md
-│   └── gold.md
-└── notebooks
-    ├── bronze
-    │   └── bronze.ipynb
-    ├── silver
-    │   ├── player.ipynb
-    │   ├── player_attributes.ipynb
-    │   ├── match.ipynb
-    │   └── joins.ipynb
-    ├── gold
-    │   └── gold.ipynb
-    └── imagens
-        ├── bucket-silver.png
-        └── saida-gold.png
+project/
+- README.md
+- docker-compose.yml
+- dicionario_dados/
+  - silver.md
+  - gold.md
+- notebooks/
+  - bronze/
+    - bronze.ipynb
+  - silver/
+    - player.ipynb
+    - player_attributes.ipynb
+    - match.ipynb
+    - joins.ipynb
+  - gold/
+    - gold.ipynb
+  - imagens/
+    - bucket-silver.png
+    - saida-gold.png
+
 
 
 
