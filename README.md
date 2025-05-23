@@ -144,7 +144,7 @@ Utilize a interface web do Spark para monitorar jobs.
 
 📊 Saída do Código Jupyter - Gold Layer
 
-![Bucket Silver](./imagens/bucket-silver.png)
+![Bucket Silver](./imagens/saida-gold.png)
 
 ---
 
